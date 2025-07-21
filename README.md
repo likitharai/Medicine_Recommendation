@@ -25,3 +25,15 @@ Privacy and Security First: We understand the sensitive nature of health data. P
 Continuous Improvement: The field of medicine is constantly evolving, and so is MediGuide. We've designed it to learn and improve over time, continually refining its recommendations based on new data and real-world feedback to provide increasingly accurate and effective guidance.
 
 Empowering Your Health Journey: MediGuide isn't just a diagnostic tool; it's a partner in your health. By providing accessible, personalized information, we aim to empower you to make informed decisions about your well-being and take proactive steps towards a healthier life.
+
+**Technologies Used**
+
+Backend	 : Python, Flask, Scikit-learn (SVC model)
+
+Frontend	: HTML, CSS, JavaScript
+
+Data : 	CSV datasets (symptoms, medications, workouts)
+
+ML Model	 : SVM (svc.pkl) trained on symptom-disease mappings
+
+Version Control : 	GitHub
