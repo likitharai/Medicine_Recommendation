@@ -37,3 +37,18 @@ Data : 	CSV datasets (symptoms, medications, workouts)
 ML Model	 : SVM (svc.pkl) trained on symptom-disease mappings
 
 Version Control : 	GitHub
+
+**ISSUE:**
+How to deploy MediGuide as a globally accessible application that works seamlessly across Linux, Windows, macOS, Android, and iOS platforms while maintaining data privacy and system performance?                                                                                                                                                         
+
+**PROBLEMS**
+
+Cross-platform compatibility (desktop + mobile)
+
+Consistent user experience across devices
+
+Secure health data handling
+
+Scalability for global users
+
+Offline functionality for areas with poor connectivity
